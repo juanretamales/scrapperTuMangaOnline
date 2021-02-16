@@ -1,0 +1,88 @@
+{
+    "empresa": "empresa",
+    "servidor": "localhost",
+    "database": "database",
+    "sitios": [
+        {
+            "nombre": "BancoChile", 
+            "biblioteca": "BancoChile", 
+            "usuario": "",
+            "pass": "",
+            "scrap": true,
+            "toDb": true,
+            "disabled": true
+        },
+        {
+            "nombre": "BancoSantander",
+            "biblioteca": "BancoSantander", 
+            "usuario": "",
+            "pass": "",
+            "scrap": true,
+            "toDb": true,
+            "disabled": true
+        },
+        {
+            "nombre": "ChequesRestaurant",
+            "biblioteca": "ChequesRestaurant", 
+            "scrap": false,
+            "toDb": true,
+            "disabled": true
+        },
+        {
+            "nombre": "MultiCaja",
+            "biblioteca": "MultiCaja", 
+            "usuario": "",
+            "pass": "",
+            "scrap": true,
+            "toDb": true,
+            "disabled": true
+        },
+        {
+            "nombre": "PedidosYa",
+            "biblioteca": "PedidosYa", 
+            "usuario": "",
+            "pass": "",
+            "scrap": true,
+            "toDb": true,
+            "disabled": true
+        },
+        {
+            "nombre": "Rappi",
+            "biblioteca": "Rappi", 
+            "usuario": "",
+            "pass": "",
+            "scrap": true,
+            "toDb": true,
+            "disabled": true
+        },
+        {
+            "nombre": "Transbank",
+            "biblioteca": "Transbank", 
+            "usuario": "",
+            "pass": "",
+            "scrap": true,
+            "toDb": true,
+            "disabled": true
+        },
+        {
+            "nombre": "UberEats",
+            "biblioteca": "UberEats", 
+            "usuario": "",
+            "pass": "",
+            "scrap": true,
+            "toDb": true,
+            "disabled": true
+        },
+        {
+            "nombre": "Ejemplo",
+            "biblioteca": "ejemplo", 
+            "usuario": "",
+            "pass": "",
+            "scrap": false,
+            "toDb": false,
+            "disabled": true
+        }
+  ]
+
+}
+  
